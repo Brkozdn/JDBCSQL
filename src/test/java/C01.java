@@ -198,5 +198,7 @@ public class C01 {
         }
 
 // hacı naptın guncelleme yaptım
+
+        // ikinci guncelleme...
     }
 }
