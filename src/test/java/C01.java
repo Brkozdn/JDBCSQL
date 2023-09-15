@@ -197,6 +197,6 @@ public class C01 {
             System.out.println("Kursiyerler tablosu silinmis");
         }
 
-
+// hacı naptın guncelleme yaptım
     }
 }
