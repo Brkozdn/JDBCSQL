@@ -166,7 +166,7 @@ public class JDBCUtils {
 
 
 
-// hayat cok garip
+
 
 
 
